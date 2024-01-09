@@ -1,7 +1,3 @@
-print("Hello !!")
-print('Testing Statement')
-
-
 Steps to setup Jenkins hosted in Docker containers:
 
 Pull the Latest Jenkins image from the Hub:
