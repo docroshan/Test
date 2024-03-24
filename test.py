@@ -22,3 +22,8 @@ docker run -d --restart=always -p 127.0.0.1:2376:2375 --network jenkins -v /var/
 cd Ewauf && pip3 install -r requirements.txt
 export PYTHONPATH=$(pwd)
 robot -t TC_5.2 Tests/ewauf.robot
+
+
+************************
+Test Statement
+***********************
